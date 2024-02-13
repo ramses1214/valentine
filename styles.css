@@ -1,0 +1,9 @@
+#valentine-card {
+  display: none;
+  text-align: center;
+}
+
+#valentine-card img {
+  width: 400px;
+  height: auto;
+}
