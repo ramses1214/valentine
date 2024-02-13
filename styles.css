@@ -1,9 +1,21 @@
+body {
+  background-image: url("./img/dfktynbyrb.jpg");
+}
 #valentine-card {
   display: none;
   text-align: center;
 }
 
 #valentine-card img {
-  width: 400px;
+  width: 600px;
   height: auto;
+}
+p {
+  font-size: 19px;
+}
+
+button {
+  width: 120px;
+  height: 40px;
+  background-color: rgb(6, 248, 6);
 }
